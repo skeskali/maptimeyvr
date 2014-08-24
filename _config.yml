@@ -1,0 +1,10 @@
+baseurl: /meetup
+permalink: pretty
+markdown: kramdown
+paginate: 5
+repo: meetup
+github_org: maptime
+maptime:
+  chapter: maptimeVancouver
+  twitter: maptimeVAN
+  #disqus: YOUR DISQUS USERNAME
